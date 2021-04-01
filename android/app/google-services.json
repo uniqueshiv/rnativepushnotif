@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "656955106519",
+    "project_id": "rndnative",
+    "storage_bucket": "rndnative.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656955106519:android:3357b97b203da747bb3c92",
+        "android_client_info": {
+          "package_name": "com.rndnative"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656955106519-dccrlgkg94cl4elspr0kla8lhl5r3353.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1eBjdYMqP1GXS1sy8IcqC-x_vBeJOTpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656955106519-dccrlgkg94cl4elspr0kla8lhl5r3353.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
