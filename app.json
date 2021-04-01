@@ -1,0 +1,12 @@
+{
+  "name": "rndnative",
+  "displayName": "rndnative",
+  "expo": {
+    "name": "rndnative",
+    "slug": "rndnative",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
